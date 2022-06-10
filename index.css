@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+}
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+h2{
+    font-style: normal;
+}
+.photo{
+    margin-right: 50px;
+    margin-left: 50px;
+    padding: 5px;
+    border: 5px;
+    background-color: aliceblue
+}
+p {
+    text-align: center;
+    margin: 50px;
+    background-color: aliceblue;
+}
+.information{
+    text-align: left;
+    margin-left: 240px;
+    margin-right: 240px;
+}
+
+
+
+
+    
